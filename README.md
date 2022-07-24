@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Linztric801
+- 👋 Hi, I’m @Linztric#7023
 - 👀 I’m interested in Discord Js.
 - 🌱 I’m currently learning Discord JS
 - 💞️ I’m looking to collaborate on Discord bots
