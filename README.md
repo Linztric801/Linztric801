@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Linztric#7023
-- 👀 I’m interested in Discord Js.
-- 🌱 I’m currently learning Discord JS
-- 💞️ I’m looking to collaborate on Discord bots
+- Senior System Engineer 
+- 👀 I’m interested in Powershell, JSON, JS & Python
+- 🌱 I’m currently learning PYTHON
+- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me Linztric#7023
 
 <!---
